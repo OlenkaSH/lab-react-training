@@ -35,7 +35,7 @@ const IdCardMain = () => {
           firstName="John"
           gender="male"
           height={178}
-          // birth={new Date('1992-07-14')}
+          birth="1992-07-14"
           picture={'https://randomuser.me/api/portraits/men/44.jpg'}
         />
       </div>
@@ -45,7 +45,7 @@ const IdCardMain = () => {
           firstName="Obrien"
           gender="female"
           height={172}
-          // birth={new Date('1988-05-11')}
+          birth="1988-05-11"
           picture="https://randomuser.me/api/portraits/women/44.jpg"
         />
       </div>
